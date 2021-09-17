@@ -1,0 +1,2 @@
+npx ng new projeto-angular
+npm start
